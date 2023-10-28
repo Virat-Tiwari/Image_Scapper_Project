@@ -1,1 +1,1 @@
-# Complete_Image_Scapper_Project and Jupyter_Code File Contain Hardcoded Way Of Image Scapping Code Without Using Css And Html
+# Complete_Image_Scapper_Project And Jupyter_Code File That Contain Hardcoded Way Of Image Scapping Code Without Using Css And Html
